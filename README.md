@@ -5,14 +5,10 @@
 
 ---
 ### Languages and Tools:
-- Visual Studio Code
 - HTML
 - CSS
 - JavaScript
-- Photoshop
 - Figma
 - Adaptive Web Design
 - Cross Browser Layout
 - Pixel perfect
-- Git
-- MarkDown
