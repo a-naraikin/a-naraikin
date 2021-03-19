@@ -4,12 +4,10 @@
 🤝 I’m looking to collaborate with other developers
 
 #
-### Programming skils
+### Programming skils and tools
 ![](https://img.shields.io/badge/HTML-orange) 
 ![](https://img.shields.io/badge/CSS-blue) 
 ![](https://img.shields.io/badge/JavaScript-yellow)
-
-### Tools 
 ![](https://img.shields.io/badge/Git-success) 
 ![](https://img.shields.io/badge/W3C-blue)
 ![](https://img.shields.io/badge/Figma-blueviolet) 
