@@ -12,6 +12,3 @@
 ![](https://img.shields.io/badge/W3C-blue)
 ![](https://img.shields.io/badge/Figma-blueviolet) 
 ![](https://img.shields.io/badge/VS_Code-blue)
-
-#
-email: anna.naraikin@yandex.ru
