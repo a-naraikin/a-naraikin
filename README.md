@@ -11,4 +11,7 @@
 - Figma
 - Adaptive Web Design
 - Cross Browser Layout
-- Pixel perfect
+- Pixel perfect  
+
+#
+email: anna.naraikin@yandex.ru
