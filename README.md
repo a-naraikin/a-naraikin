@@ -5,13 +5,13 @@
 
 #
 ### Programming skils
-![](https://img.shields.io/badge/HTML-orange)  
-![](https://img.shields.io/badge/CSS-blue)  
+![](https://img.shields.io/badge/HTML-orange) 
+![](https://img.shields.io/badge/CSS-blue) 
 ![](https://img.shields.io/badge/JavaScript-yellow)
 
 ### Tools 
-![](https://img.shields.io/badge/Git-success)  
-![](https://img.shields.io/badge/Figma-blueviolet)  
+![](https://img.shields.io/badge/Git-success) 
+![](https://img.shields.io/badge/Figma-blueviolet) 
 ![](https://img.shields.io/badge/VS_Code-blue)
 
 #
