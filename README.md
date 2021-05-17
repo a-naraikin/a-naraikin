@@ -1,6 +1,6 @@
 # Hi there, I'm Anna.
 
-💻 I'am taking a [Netology](https://netology.ru/) course in [«Frontend-developer»](https://netology.ru/programs/front-end).   
+🌱 I'am learning a course in [Netology](https://netology.ru/), majoring in [«Frontend-developer»](https://netology.ru/programs/front-end).   
 🤝 I’m looking to collaborate with other developers
 
 #
