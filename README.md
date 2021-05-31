@@ -12,3 +12,5 @@
 ![](https://img.shields.io/badge/W3C-blue "W3C")
 ![](https://img.shields.io/badge/Figma-blueviolet "Figma") 
 ![](https://img.shields.io/badge/VS_Code-blue "VS Code")
+
+![](https://www.codewars.com/users/Anna-N/badges/micro)
