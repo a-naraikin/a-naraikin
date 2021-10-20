@@ -5,11 +5,11 @@
 
 #
 ### Programming skils and tools
-![](https://img.shields.io/badge/HTML-green "HTML") 
-![](https://img.shields.io/badge/CSS-blue "CSS") 
-![](https://img.shields.io/badge/JavaScript-yellow "JavaScript")
-![](https://img.shields.io/badge/Git-success "Git") 
-![](https://img.shields.io/badge/W3C-blue "W3C")
-![](https://img.shields.io/badge/Figma-blueviolet "Figma") 
-![](https://img.shields.io/badge/VS_Code-blue "VS Code") 
-![](https://img.shields.io/badge/-Webpack-yellow "Webpack") 
+![](https://img.shields.io/badge/HTML-forestgreen "HTML") 
+![](https://img.shields.io/badge/CSS-seagreen "CSS") 
+![](https://img.shields.io/badge/JavaScript-palegreen "JavaScript")
+![](https://img.shields.io/badge/Git-forestgreen "Git") 
+![](https://img.shields.io/badge/W3C-seagreen "W3C")
+![](https://img.shields.io/badge/Figma-palegreen  "Figma") 
+![](https://img.shields.io/badge/VS_Code-forestgreen "VS Code") 
+![](https://img.shields.io/badge/Webpack-seagreen "Webpack") 
