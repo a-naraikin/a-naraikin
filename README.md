@@ -13,3 +13,4 @@
 ![](https://img.shields.io/badge/Figma-palegreen  "Figma") 
 ![](https://img.shields.io/badge/VS_Code-forestgreen "VS Code") 
 ![](https://img.shields.io/badge/Webpack-seagreen "Webpack") 
+![](https://img.shields.io/badge/React-palegreen "React")
