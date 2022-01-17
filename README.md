@@ -5,7 +5,7 @@
 
 #
 ### Programming skils and tools
-![](https://img.shields.io/badge/HTML-forestgreen "HTML") 
+![HTML](https://img.shields.io/badge/HTML-forestgreen "HTML") 
 ![](https://img.shields.io/badge/CSS-seagreen "CSS") 
 ![](https://img.shields.io/badge/JavaScript-palegreen "JavaScript")
 ![](https://img.shields.io/badge/Git-forestgreen "Git") 
