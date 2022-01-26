@@ -5,7 +5,7 @@
 🤝 I’m looking to collaborate with other developers
 
 #
-### Programming skils and tools
+#### Programming skils and tools
 ![](https://img.shields.io/badge/HTML-forestgreen "HTML") 
 ![](https://img.shields.io/badge/CSS-seagreen "CSS") 
 ![](https://img.shields.io/badge/JavaScript-palegreen "JavaScript")
