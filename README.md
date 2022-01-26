@@ -1,3 +1,4 @@
+# Hi there 👋
 ### My name is Anna! I'm a beginner frontend-developer.
 
 🌱 I'am learning a course [«Frontend-developer»](https://netology.ru/programs/front-end) in [Netology](https://netology.ru/).   
