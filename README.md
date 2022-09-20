@@ -5,6 +5,9 @@
 🤝 I’m looking to collaborate with other developers
 
 #
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-naraikin&layout=compact)
+
+#
 #### Programming skils and tools
 ![](https://img.shields.io/badge/HTML5-forestgreen "HTML5") 
 ![](https://img.shields.io/badge/CSS3-seagreen "CSS3") 
@@ -15,6 +18,3 @@
 ![](https://img.shields.io/badge/VS_Code-forestgreen "VS Code") 
 ![](https://img.shields.io/badge/Webpack-seagreen "Webpack") 
 ![](https://img.shields.io/badge/React-palegreen "React")
-
-#
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-naraikin&layout=compact)
