@@ -15,3 +15,5 @@
 ![](https://img.shields.io/badge/VS_Code-forestgreen "VS Code") 
 ![](https://img.shields.io/badge/Webpack-seagreen "Webpack") 
 ![](https://img.shields.io/badge/React-palegreen "React")
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-naraikin&layout=compact)
